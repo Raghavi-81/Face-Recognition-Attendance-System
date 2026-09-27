@@ -1,0 +1,6 @@
+attendance.db
+face_model.yml
+known_faces/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
